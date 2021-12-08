@@ -1,1 +1,1 @@
-https://github.com/Sandra-Elsa-Alexander
+[link to GitHub](https://github.com/Sandra-Elsa-Alexander)
